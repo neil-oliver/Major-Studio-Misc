@@ -1,7 +1,7 @@
-#Whitney Museum Visit & Digital Colection
+# Whitney Museum Visit & Digital Colection
 
-##Museum
-###Notable Observations
+## Museum
+### Notable Observations
 
 No colors in the design of the museum except black and white (prodominantly white).
 Seminal pieces are displayed on their own walls, not overcrowding or distracting from the image.
@@ -11,8 +11,8 @@ No clear path for exploration of each floor.
 Display space was not limited to inside the building, with outdoor areas displaying both perminant installations and curated sculptures and digital items.
 
 
-##Digitial Collection
-###Notable Observations
+## Digitial Collection
+### Notable Observations
 
 Entire collection available for search.
 Totsl number of items and total number of items per department are displayed. 
